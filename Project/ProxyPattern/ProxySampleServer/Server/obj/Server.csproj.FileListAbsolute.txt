@@ -1,5 +1,0 @@
-C:\RahulSingh\TestProjects\Server\Server\obj\Debug\ResolveAssemblyReference.cache
-C:\RahulSingh\TestProjects\Server\Server\bin\Debug\Server.exe
-C:\RahulSingh\TestProjects\Server\Server\bin\Debug\Server.pdb
-C:\RahulSingh\TestProjects\Server\Server\obj\Debug\Server.exe
-C:\RahulSingh\TestProjects\Server\Server\obj\Debug\Server.pdb

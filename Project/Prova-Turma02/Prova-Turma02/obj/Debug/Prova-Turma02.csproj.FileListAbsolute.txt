@@ -1,6 +1,0 @@
-D:\Google Drive\@Treinamentos\Design Patterns\Project\Prova-Turma02\Prova-Turma02\bin\Debug\Prova-Turma02.exe.config
-D:\Google Drive\@Treinamentos\Design Patterns\Project\Prova-Turma02\Prova-Turma02\obj\Debug\Prova-Turma02.csprojResolveAssemblyReference.cache
-D:\Google Drive\@Treinamentos\Design Patterns\Project\Prova-Turma02\Prova-Turma02\bin\Debug\Prova-Turma02.exe
-D:\Google Drive\@Treinamentos\Design Patterns\Project\Prova-Turma02\Prova-Turma02\bin\Debug\Prova-Turma02.pdb
-D:\Google Drive\@Treinamentos\Design Patterns\Project\Prova-Turma02\Prova-Turma02\obj\Debug\Prova-Turma02.exe
-D:\Google Drive\@Treinamentos\Design Patterns\Project\Prova-Turma02\Prova-Turma02\obj\Debug\Prova-Turma02.pdb

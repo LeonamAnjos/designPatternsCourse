@@ -1,6 +1,0 @@
-D:\Google Drive\@Treinamentos\Design Patterns\Project\Prova01-Questao01\Prova01-Questao01\bin\Debug\Prova01-Questao01.exe.config
-D:\Google Drive\@Treinamentos\Design Patterns\Project\Prova01-Questao01\Prova01-Questao01\bin\Debug\Prova01-Questao01.exe
-D:\Google Drive\@Treinamentos\Design Patterns\Project\Prova01-Questao01\Prova01-Questao01\bin\Debug\Prova01-Questao01.pdb
-D:\Google Drive\@Treinamentos\Design Patterns\Project\Prova01-Questao01\Prova01-Questao01\obj\Debug\Prova01-Questao01.csprojResolveAssemblyReference.cache
-D:\Google Drive\@Treinamentos\Design Patterns\Project\Prova01-Questao01\Prova01-Questao01\obj\Debug\Prova01-Questao01.exe
-D:\Google Drive\@Treinamentos\Design Patterns\Project\Prova01-Questao01\Prova01-Questao01\obj\Debug\Prova01-Questao01.pdb

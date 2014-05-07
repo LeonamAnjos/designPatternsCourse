@@ -1,8 +1,0 @@
-D:\Google Drive\Documents\Treinamento OO\Project\TemplateMethodPatter\TemplateMethodPatter\bin\Debug\TemplateMethodPattern.exe
-D:\Google Drive\Documents\Treinamento OO\Project\TemplateMethodPatter\TemplateMethodPatter\bin\Debug\TemplateMethodPattern.pdb
-D:\Google Drive\Documents\Treinamento OO\Project\TemplateMethodPatter\TemplateMethodPatter\obj\x86\Debug\TemplateMethodPattern.exe
-D:\Google Drive\Documents\Treinamento OO\Project\TemplateMethodPatter\TemplateMethodPatter\obj\x86\Debug\TemplateMethodPattern.pdb
-D:\Google Drive\@Treinamentos\Design Patterns\Project\TemplateMethodPatter\TemplateMethodPatter\obj\x86\Debug\TemplateMethodPattern.exe
-D:\Google Drive\@Treinamentos\Design Patterns\Project\TemplateMethodPatter\TemplateMethodPatter\obj\x86\Debug\TemplateMethodPattern.pdb
-D:\Google Drive\@Treinamentos\Design Patterns\Project\TemplateMethodPatter\TemplateMethodPatter\bin\Debug\TemplateMethodPattern.exe
-D:\Google Drive\@Treinamentos\Design Patterns\Project\TemplateMethodPatter\TemplateMethodPatter\bin\Debug\TemplateMethodPattern.pdb

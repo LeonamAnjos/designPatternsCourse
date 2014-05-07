@@ -1,4 +1,0 @@
-D:\Google Drive\Documents\Treinamento OO\Project\AdapterPatter\AdapterPatter\bin\Debug\AdapterPatter.exe
-D:\Google Drive\Documents\Treinamento OO\Project\AdapterPatter\AdapterPatter\bin\Debug\AdapterPatter.pdb
-D:\Google Drive\Documents\Treinamento OO\Project\AdapterPatter\AdapterPatter\obj\x86\Debug\AdapterPatter.exe
-D:\Google Drive\Documents\Treinamento OO\Project\AdapterPatter\AdapterPatter\obj\x86\Debug\AdapterPatter.pdb

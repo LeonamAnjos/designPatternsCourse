@@ -1,6 +1,0 @@
-D:\Google Drive\Documents\Treinamento OO\Project\ChainOfResponsabilityPattern\ChainOfResponsabilityPattern\bin\Debug\ChainOfResponsabilityPattern.exe
-D:\Google Drive\Documents\Treinamento OO\Project\ChainOfResponsabilityPattern\ChainOfResponsabilityPattern\bin\Debug\ChainOfResponsabilityPattern.pdb
-D:\Google Drive\Documents\Treinamento OO\Project\ChainOfResponsabilityPattern\ChainOfResponsabilityPattern\obj\x86\Debug\ChainOfResponsabilityPattern.exe
-D:\Google Drive\Documents\Treinamento OO\Project\ChainOfResponsabilityPattern\ChainOfResponsabilityPattern\obj\x86\Debug\ChainOfResponsabilityPattern.pdb
-D:\Google Drive\@Treinamentos\Design Patterns\Project\ChainOfResponsabilityPattern\ChainOfResponsabilityPattern\obj\x86\Debug\ChainOfResponsabilityPattern.exe
-D:\Google Drive\@Treinamentos\Design Patterns\Project\ChainOfResponsabilityPattern\ChainOfResponsabilityPattern\obj\x86\Debug\ChainOfResponsabilityPattern.pdb
