@@ -1,0 +1,4 @@
+D:\Google Drive\Documents\Treinamento OO\Project\TemplateMethodPatter\TemplateMethodPatter\bin\Debug\TemplateMethodPatter.exe
+D:\Google Drive\Documents\Treinamento OO\Project\TemplateMethodPatter\TemplateMethodPatter\bin\Debug\TemplateMethodPatter.pdb
+D:\Google Drive\Documents\Treinamento OO\Project\TemplateMethodPatter\TemplateMethodPatter\obj\x86\Debug\TemplateMethodPatter.exe
+D:\Google Drive\Documents\Treinamento OO\Project\TemplateMethodPatter\TemplateMethodPatter\obj\x86\Debug\TemplateMethodPatter.pdb

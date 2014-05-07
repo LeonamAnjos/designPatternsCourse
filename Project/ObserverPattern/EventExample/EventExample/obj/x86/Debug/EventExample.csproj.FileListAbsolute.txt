@@ -1,0 +1,5 @@
+D:\Google Drive\@Treinamentos\Design Patterns\Project\ObserverPattern\EventExample\EventExample\bin\Debug\EventExample.exe
+D:\Google Drive\@Treinamentos\Design Patterns\Project\ObserverPattern\EventExample\EventExample\bin\Debug\EventExample.pdb
+D:\Google Drive\@Treinamentos\Design Patterns\Project\ObserverPattern\EventExample\EventExample\obj\x86\Debug\EventExample.exe
+D:\Google Drive\@Treinamentos\Design Patterns\Project\ObserverPattern\EventExample\EventExample\obj\x86\Debug\EventExample.pdb
+D:\Google Drive\@Treinamentos\Design Patterns\Project\ObserverPattern\EventExample\EventExample\obj\x86\Debug\EventExample.csprojResolveAssemblyReference.cache

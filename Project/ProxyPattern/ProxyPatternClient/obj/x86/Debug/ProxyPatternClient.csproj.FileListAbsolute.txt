@@ -1,0 +1,6 @@
+D:\Google Drive\Documents\Treinamento OO\Project\ProxyPattern\ProxyPatternClient\bin\Debug\ProxyPatternClient.exe
+D:\Google Drive\Documents\Treinamento OO\Project\ProxyPattern\ProxyPatternClient\bin\Debug\ProxyPatternClient.pdb
+D:\Google Drive\Documents\Treinamento OO\Project\ProxyPattern\ProxyPatternClient\obj\x86\Debug\ProxyPatternClient.exe
+D:\Google Drive\Documents\Treinamento OO\Project\ProxyPattern\ProxyPatternClient\obj\x86\Debug\ProxyPatternClient.pdb
+D:\Google Drive\@Treinamentos\Design Patterns\Project\ProxyPattern\ProxyPatternClient\obj\x86\Debug\ProxyPatternClient.exe
+D:\Google Drive\@Treinamentos\Design Patterns\Project\ProxyPattern\ProxyPatternClient\obj\x86\Debug\ProxyPatternClient.pdb

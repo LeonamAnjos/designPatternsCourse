@@ -1,0 +1,5 @@
+C:\RahulSingh\TestProjects\Client\Client\obj\Debug\ResolveAssemblyReference.cache
+C:\RahulSingh\TestProjects\Client\Client\bin\Debug\Client.exe
+C:\RahulSingh\TestProjects\Client\Client\bin\Debug\Client.pdb
+C:\RahulSingh\TestProjects\Client\Client\obj\Debug\Client.exe
+C:\RahulSingh\TestProjects\Client\Client\obj\Debug\Client.pdb
